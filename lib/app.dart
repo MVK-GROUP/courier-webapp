@@ -40,7 +40,7 @@ class App extends StatelessWidget {
           localizationsDelegates: context.localizationDelegates,
           supportedLocales: context.supportedLocales,
           locale: context.locale,
-          title: "Велмарт SmartLocker",
+          title: "Courier App",
           theme: _theme(),
           home: auth.isAuth
               ? const MenuScreen()
