@@ -44367,7 +44367,7 @@ j=A.fy(i,i,i)
 j=A.aC2(A.fy(i,i,B.a6H),A.fy(i,i,i),A.fy(i,i,i),r,q,p,o,n,m,A.fy(i,i,i),A.fy(i,i,i),A.fy(i,i,i),l,k,j)
 j=A.wm(i,A.wm(i,i,i,i,i,i,i).ay.aff(B.an,B.an),B.rL,s,B.eQ,j,i)
 s=b.a!=null?B.lx:A.pR(new A.a3E(),b.v2(),t.y)
-return new A.qp(s,$.aOm(),new A.a3F(a,b),"\u0412\u0435\u043b\u043c\u0430\u0440\u0442 SmartLocker",j,h,g,f.d,i)},
+return new A.qp(s,$.aOm(),new A.a3F(a,b),"Courier App",j,h,g,f.d,i)},
 $C:"$3",
 $R:3,
 $S:250}
