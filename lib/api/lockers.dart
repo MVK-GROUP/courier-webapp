@@ -11,7 +11,7 @@ class LockerApi {
 
   static Future<Locker> fetchLockerById(String lockerId, String? token,
       {String lang = 'en'}) async {
-    var apiUrl = "/lockers/$lockerId/";
+    var apiUrl = "/couriers/lockers/$lockerId/";
     try {
       var res = await http.get(
         Uri.parse(baseUrl + apiUrl),
